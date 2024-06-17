@@ -24,6 +24,13 @@ This project aims to analyze the Nobel Prize data from 1901 to 2016 to uncover i
 
 ### 5. FED Monetary Policy Analysis
 
+The purpose of this study is to assess the effectiveness of Quantitative Easing (QE), an unconventional monetary policy tool adopted by the Bank of Japan (BoJ) and subsequently by the Federal Reserve (FED) in response to the 2008 financial crisis.
+
+Questions to answer:
+Can the QE policy be considered a type of "money printing"?
+Why did money supply and lending not increase during QE despite interest rates being held at zero levels?
+
+
 ### 6. Market Analysis for E-Learning Company
 
 This data analysis project aims to determine the optimal advertising strategy for an e-learning company specializing in programming courses. The company's course offerings span various domains, including web and mobile development, data science, game development, and more. In this project, we aim to identify the two most promising markets to invest advertising funds in, with the ultimate goal of promoting the company's products effectively. By leveraging relevant data sources and analytical tools, we aim to provide actionable insights to inform the company's advertising decision-making process.
