@@ -11,6 +11,8 @@ How company could take advanteage of existing patterns to develop better product
 
 ### 2. Rossmann Sales Prediction
 
+Rossmann operates over 4,000 drugstores across 10 European countries. Currently, store managers at Rossmann are responsible for predicting their daily sales up to six weeks in advance. Store sales are influenced by numerous factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers making predictions based on their unique circumstances, the accuracy of these forecasts can vary significantly. We have been provided with historical sales data for 1,115 Rossmann stores. The main objective of this project is to develop an optimal model to help the company accurately forecast sales.
+
 ### 3. Nobel Prize Analysis
 
 ### 4. Apartment Price Prediction
