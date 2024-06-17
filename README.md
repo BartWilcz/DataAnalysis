@@ -18,6 +18,8 @@ What is the best to model predict Stores sales?
 
 ### 3. Nobel Prize Analysis
 
+This project aims to analyze the Nobel Prize data from 1901 to 2016 to uncover interesting patterns and insights. Through data visualization techniques, we will explore trends in the fields of research, demographic information about Nobel laureates, and the institutions and countries that produce the most Nobel Prize winners. This analysis will provide a glimpse into the history and evolution of scientific research and discovery over the last century.
+
 ### 4. Apartment Price Prediction
 
 ### 5. FED Monetary Policy Analysis
