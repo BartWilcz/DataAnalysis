@@ -22,6 +22,9 @@ This project aims to analyze the Nobel Prize data from 1901 to 2016 to uncover i
 
 ### 4. Apartment Price Prediction
 
+The main objective of this project is price prediction for 200 apartments in Pune city. Different regression models such as Linear, Random Forest, XGBoost, etc., have been implemented.
+
+
 ### 5. FED Monetary Policy Analysis
 
 The purpose of this study is to assess the effectiveness of Quantitative Easing (QE), an unconventional monetary policy tool adopted by the Bank of Japan (BoJ) and subsequently by the Federal Reserve (FED) in response to the 2008 financial crisis.
