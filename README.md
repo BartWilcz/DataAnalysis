@@ -12,7 +12,7 @@ Used Technology: Python
 
 ### 2. Rossmann Sales Prediction
 
-Rossmann operates over 4,000 drugstores across 10 European countries. Currently, store managers at Rossmann are responsible for predicting their daily sales up to six weeks in advance. Store sales are influenced by numerous factors, including promotions, competition, school and state holidays, seasonality, and locality. The main objective of this project is to develop an optimal model to help the company accurately forecast sales. With thousands of individual managers making predictions based on their unique circumstances, the accuracy of these forecasts can vary significantly. The project is based on historical sales data for 1,115 Rossmann stores.
+The main objective of this project is to develop an optimal model to help the company accurately forecast sales. The project is based on historical sales data for 1,115 Rossmann stores. 
 
 Questions to answer:
 What is the best to model predict Stores sales?
