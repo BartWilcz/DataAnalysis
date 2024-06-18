@@ -43,6 +43,9 @@ Used Technology: Python
 
 ### 6. Market Analysis for E-Learning Company
 
-This data analysis project aims to determine the optimal advertising strategy for an e-learning company specializing in programming courses. The company's course offerings span various domains, including web and mobile development, data science, game development, and more. In this project, we aim to identify the two most promising markets to invest advertising funds in, with the ultimate goal of promoting the company's products effectively. By leveraging relevant data sources and analytical tools, we aim to provide actionable insights to inform the company's advertising decision-making process.
+This data analysis project aims to determine the optimal advertising strategy for an e-learning company specializing in programming courses. In this project, the aim is to identify the two most promising markets to invest advertising funds in, with the ultimate goal of promoting the company's products effectively and provide actionable insights to inform the company's advertising decision-making process.
+
+Questions to answer:
+1. What are the two most promising markets to invest?
 
 Used Technology: Python
